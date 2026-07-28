@@ -8,9 +8,22 @@ Coursework for 02450 Introduction to Machine Learning and Data Mining (DTU, Spri
 - Benjamin Chambaudet
 
 ## Repository Contents
-- Assignment_1_Group510.pdf — Data description, feature summary statistics, exploratory visualization, and PCA analysis
-- Assignment2_report_group510.pdf — Regression, classification, model comparison, and statistical evaluation
-- Script/...
+- Data/
+      - wine.data
+      - wine.names
+      - Index
+- Reports/
+      - Assignment_1_Group510.pdf — Data description, feature summary statistics, exploratory visualization, and PCA analysis
+      - Assignment2_report_group510.pdf — Regression, classification, model comparison, and statistical evaluation
+- Script/
+      - Assignment1/
+          - PythonScripts_Assignment1_Group510.py
+      - Assignment2/
+          - 1_RegressionPartA.py
+          - 1_RegressionPartB_question&2.py
+          - 1_RegressionPartB_question3.py
+          - 2_Classification_3_3.py
+          - 2_Classification3_4.py
 
 ## Dataset
 13 physicochemical attributes (alcohol content, malic acid, ash, alkalinity of ash, magnesium, phenols, flavanoids, color intensity, hue, proline, etc.) measured across 178 wine samples from 3 cultivars. The dataset has no missing or corrupted values.
