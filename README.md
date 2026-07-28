@@ -3,9 +3,9 @@
 Coursework for 02450 Introduction to Machine Learning and Data Mining (DTU, Spring 2024), completed in two assignments by Group 510. The project explores the UCI Wine dataset — a chemical analysis of wines from three cultivars grown in the same region of Italy — through exploratory data analysis, dimensionality reduction, regression, and classification.
 
 ## Authors
-Simon Fogh Kristiansen
-Christian Schultz-Nielsen
-Benjamin Chambaudet
+- Simon Fogh Kristiansen
+- Christian Schultz-Nielsen
+- Benjamin Chambaudet
 
 ## Repository Contents
 - Assignment_1_Group510.pdf — Data description, feature summary statistics, exploratory visualization, and PCA analysis
