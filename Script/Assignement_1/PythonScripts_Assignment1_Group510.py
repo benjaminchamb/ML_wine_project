@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import normalize
 from scipy import stats
-#path = "C:\Users\simon\Desktop\Machine learning\Project 1\wine"
+#path = "main\Data"
 d = np.loadtxt("wine.data", comments="#", delimiter=",", unpack=False) # load data set 
 
 i = 0; j = 1
