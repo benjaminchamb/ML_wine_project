@@ -9,7 +9,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn import model_selection
 
-#path = "C:\Users\simon\Desktop\Machine learning\Project 1\wine"
+#path = "main\Data"
 d = np.loadtxt("wine.data", comments="#", delimiter=",", unpack=False) # load data set 
 i = 0; j = 1
 attributes = [
