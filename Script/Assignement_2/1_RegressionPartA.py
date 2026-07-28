@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  4 10:53:01 2024
-
-@author: simon
-"""
-
 import numpy as np 
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import normalize
