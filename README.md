@@ -1,4 +1,4 @@
-# Machine Learning 02450 – Wine Dataset Analysis
+# Machine Learning – Wine Dataset Analysis
 
 Coursework for 02450 Introduction to Machine Learning and Data Mining (DTU, Spring 2024), completed in two assignments by Group 510. The project explores the UCI Wine dataset — a chemical analysis of wines from three cultivars grown in the same region of Italy — through exploratory data analysis, dimensionality reduction, regression, and classification.
 
